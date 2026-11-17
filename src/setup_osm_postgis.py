@@ -59,7 +59,7 @@ def setup_osm_postgis(
         ... )
     """
 
-    # TODO: Implement this function
+    #Implement this function
     # Step 1: Setup data directory
     # Step 2: Download shapefile ZIP data
     # Step 3: Connect to PostgreSQL (default database)
@@ -71,4 +71,3 @@ def setup_osm_postgis(
     # Step 9: Close connections
 
     # IMPORTANT: Remove this line after correctly implementing the function.
-    raise NotImplementedError("setup_osm_postgis() is not implemented. Complete this function before running it.")
