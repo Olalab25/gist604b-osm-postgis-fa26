@@ -60,7 +60,7 @@ def setup_osm_postgis(
 
     Example:
         >>> setup_osm_postgis(
-        ...     osm_url="https://download.geofabrik.de/north-america/us/arizona-latest-free.shp.zip", db_name="arizona", load_shapefiles=["places_a", "pois"]
+        ...     osm_url="https://download.geofabrik.de/north-america/us/alabama-latest-free.shp.zip", db_name="alabama", load_shapefiles=["places_a", "pois"]
         ... )
     """
 
